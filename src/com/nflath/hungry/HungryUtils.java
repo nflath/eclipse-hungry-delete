@@ -27,3 +27,4 @@ public class HungryUtils {
 		return selection.getOffset();
 	}
 }
+
