@@ -65,18 +65,6 @@
             </command>
          </menu>
       </menuContribution>
-      <menuContribution
-            locationURI="toolbar:org.eclipse.ui.main.toolbar?after=additions">
-         <toolbar
-               id="com.nflath.hungry.toolbars.sampleToolbar">
-            <command
-                  commandId="com.nflath.hungry.commands.sampleCommand"
-                  icon="icons/sample.gif"
-                  tooltip="Say hello world"
-                  id="com.nflath.hungry.toolbars.sampleCommand">
-            </command>
-         </toolbar>
-      </menuContribution>
    </extension>
 
 </plugin>
